@@ -2,41 +2,27 @@
 支持圆形、圆角矩形、带边框的自定义View
 
 
-
-思路详见：知乎专栏：
+知乎专栏：[实现自定义圆形、圆角矩形View](https://zhuanlan.zhihu.com/p/26395042)
 
 ## Quick start
-You can now download it from Sonatype's snapshots repo.
 
-1. Add the snapshots repo to your `build.gradle`
+源码比较简单，直接参考：
 
-```
-```groovy
-repositories {
-    maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
-}
-```
-
-2. Add build dependency
-
-```
-```groovy
-dependencies {
-    compile 'com.github.gabrielemariotti.recyclerview:recyclerview-animators:0.3.0-SNAPSHOT@aar'
-}
-```
+根据不同需求可扩展；
 
 ## About Me
 
-知乎专栏：
+知乎专栏：[Android View那些事](https://zhuanlan.zhihu.com/androidview)
 
-豆瓣专栏：
+豆瓣专栏：[Android源码解析录](https://read.douban.com/column/5004688/)
 
-CSDN博客：
+CSDN博客：[Debug的猫](http://blog.csdn.net/qwm8777411)
 
-新浪微博：
+新浪微博：[Debug的猫](http://weibo.com/3237423474/profile?topnav=1&wvr=6)
 
-微信公众号：
+微信公众号：[Debug的猫]
+
+
 
 ## License
 
