@@ -6,7 +6,7 @@
 
 ## Quick start
 
-源码比较简单，直接参考：
+源码比较简单，直接参考：https://github.com/msandroid/MultiShapeView/blob/master/app/src/main/java/com/debugcat/multishapeview/widget/MultiShapeView.java
 
 根据不同需求可扩展；
 
@@ -21,6 +21,7 @@ CSDN博客：[Debug的猫](http://blog.csdn.net/qwm8777411)
 新浪微博：[Debug的猫](http://weibo.com/3237423474/profile?topnav=1&wvr=6)
 
 微信公众号：[Debug的猫]
+
 
 
 
