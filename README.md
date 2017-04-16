@@ -1,6 +1,7 @@
 # MultiShapeView
 支持圆形、圆角矩形、带边框的自定义View
 
+![自定义圆形、圆角矩形View](https://github.com/msandroid/MultiShapeView/blob/master/preview.jpg)
 
 知乎专栏：[实现自定义圆形、圆角矩形View](https://zhuanlan.zhihu.com/p/26395042)
 
