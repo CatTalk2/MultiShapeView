@@ -22,9 +22,9 @@ CSDN博客：[Debug的猫](http://blog.csdn.net/qwm8777411)
 
 新浪微博：[Debug的猫](http://weibo.com/3237423474/profile?topnav=1&wvr=6)
 
-微信公众号：[Debug的猫]
+微信公众号：（主要分享Android View相关，有时也聊聊开发者的日常）
 
-
+![Debug的猫](https://github.com/msandroid/MultiShapeView/blob/master/weixin.jpg)
 
 
 ## License
