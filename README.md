@@ -6,7 +6,7 @@
 
 ## Quick start
 
-源码比较简单，直接参考：https://github.com/msandroid/MultiShapeView/blob/master/app/src/main/java/com/debugcat/multishapeview/widget/MultiShapeView.java
+源码比较简单，直接参考：[MultiShapeView](https://github.com/msandroid/MultiShapeView/blob/master/app/src/main/java/com/debugcat/multishapeview/widget/MultiShapeView.java)
 
 根据不同需求可扩展；
 
