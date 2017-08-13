@@ -330,25 +330,7 @@ public class MultiShapeView extends View {
         invalidate();
     }
 
-    @Override
-    public boolean onTouchEvent(MotionEvent event) {
-        int action = event.getActionMasked();
-        switch (action) {
-            case MotionEvent.ACTION_DOWN:
-                setPressed(true);
-                break;
-            case MotionEvent.ACTION_MOVE:
-                if (!mRcBitmap.contains(event.getX(), event.getY())){
-                    setPressed(false);
-                }
-                break;
-            case MotionEvent.ACTION_UP:
-            case MotionEvent.ACTION_CANCEL:
-                setPressed(false);
-                break;
-        }
-        return true;
-    }
+ 
 
     //-----------------------------------------------getter/setter------------------------------
 
